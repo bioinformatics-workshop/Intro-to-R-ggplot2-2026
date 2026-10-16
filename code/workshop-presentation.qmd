@@ -22,7 +22,7 @@ title-slide-attributes:
 link-external-newwindow: true
 embed-resources: true
 standalone: true
-footer: "https://github.com/bioinformatics-workshop/Intro-to-R-ggplot2-2025"
+footer: "https://github.com/bioinformatics-workshop/Intro-to-R-ggplot2-2026"
 ---
 
 # About the Core
